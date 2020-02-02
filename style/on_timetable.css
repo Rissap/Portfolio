@@ -1,0 +1,23 @@
+.content {
+	text-align: center;
+	margin: 10px 0px;
+}
+
+table {
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	border-bottom: 10px solid #EBEBEB;
+}
+
+th, td {
+	padding: 10px 5px;
+}
+
+.table-head {
+	background-color: #EBEBEB;
+}
+
+.mark-color {
+	background-color: #EBEBEB;
+}

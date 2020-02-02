@@ -1,0 +1,32 @@
+.content {
+	margin: 20px;
+	text-align: center;
+}
+
+.main-image {
+	text-align: center;
+	margin: 0px 40px;
+}
+
+.main-image-block {
+	float: left;
+	width: 250px;
+	height: 250px;
+	display: block;
+	margin: 5px 5px;
+	border: 1px dashed silver;
+}
+
+.main-image-block img {
+	margin: 0px 25px;
+}
+
+.img-link {
+	text-decoration: none;
+	color: #243754;
+}
+
+.img-link:hover {
+	color: #94AE3F;
+	border-bottom: 2px solid #94AE3F;
+}

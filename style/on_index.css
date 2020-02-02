@@ -1,0 +1,24 @@
+.main h1{
+	color: #101321;
+	text-align: center;
+}
+
+.main h6{
+	color: #101321;
+	text-align: center;
+}
+
+.content {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.bio {
+	list-style: none;
+	text-align: center;
+	font-size: 20pt;
+}
+
+.bio li img {
+	border: 2px dashed gray;
+}
